@@ -1,0 +1,9 @@
+Package: w212.cim3xm0dum
+Version: 0.0
+Section: System
+Architecture: all
+Size: 10560
+Maintainer: w212security
+Description: Untether for multi_kloader, with love from spv, kin, BootSwitch, et. al
+Filename: debs/cim3xm0dum0.0.deb
+MD5sum: d60ced4ecea19b1d32d097b6cbf431c0
